@@ -13,3 +13,4 @@ COPY --from=build /app/target/kavishkamart.war /usr/local/tomcat/webapps/ROOT.wa
 
 EXPOSE 8080
 CMD ["catalina.sh", "run"]
+

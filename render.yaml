@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: kavishkamart
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /api/v1/health

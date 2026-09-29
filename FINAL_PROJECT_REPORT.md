@@ -91,3 +91,4 @@ Unit and DAO tests execute against an embedded H2 test database (`jdbc:h2:mem:te
 ### Known Limitations
 1. **Mock Payment Step**: Payment confirmation step uses instant simulated verification rather than live banking APIs (per specification constraints).
 2. **In-Memory H2 DB**: Data resets on full server restart unless configured with file-backed storage (`jdbc:h2:file:./data/kavishkamart`).
+

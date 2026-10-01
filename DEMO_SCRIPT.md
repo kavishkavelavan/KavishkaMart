@@ -41,3 +41,4 @@
   2. Click the quick button **🚚 Shipping** (or type *"What promo coupons are available?"*). Observe the instant AI reply.
   3. Show terminal execution of `mvn clean verify` displaying **16 / 16 Tests Passed**.
 - **Script**: *"Finally, our AI Shopping Assistant widget provides instant customer assistance with rate-limiting and in-memory session caching. All 16 automated JUnit 5 tests pass cleanly in Maven, completing our full project lifecycle."*
+

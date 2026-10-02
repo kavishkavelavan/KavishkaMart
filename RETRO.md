@@ -36,3 +36,4 @@
 - **What Worked**: AI Chatbot fallback (`MockChatProvider`) allowed offline FAQ responses without requiring external API keys.
 - **What Didn't**: Initial JSON request bodies needed handling for both `application/x-www-form-urlencoded` and raw JSON payloads.
 - **Change Implemented**: Enhanced `ChatServlet.parseMessage()` to support both form parameters and raw JSON payloads gracefully.
+

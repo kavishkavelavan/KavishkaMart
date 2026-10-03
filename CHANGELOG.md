@@ -36,3 +36,4 @@ All notable changes to this project will be documented in this file following Se
 - **Core E-Commerce Journeys**: User Registration/Login, Product Catalog browsing with Search & Category filters.
 - **Cart & Checkout**: Session-based cart, promo coupon engine (`WELCOME10`, `KAVISHKA20`, `SUPER50`), and transactional checkout receipts.
 - **Database Initialization**: H2 in-memory DB schema migration and 20-item seed catalog dataset.
+

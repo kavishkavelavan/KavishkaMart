@@ -62,3 +62,4 @@ Execute all automated JUnit 5 unit and DAO tests before submitting pull requests
 mvn test
 ```
 Confirm all 16 tests pass with 0 failures and 0 errors.
+

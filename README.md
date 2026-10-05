@@ -134,3 +134,4 @@ Browser (HTML5 / Vanilla JS / Glassmorphism UI + Floating AI Widget)
 | `POST` | `/api/cart?action=add` | Add Item to Cart | HTTP 200 OK |
 | `GET` | `/api/coupon/validate` | Validate Promo Code | `{"success":true,"data":{"discountPercent":20}}` |
 | `GET` | `/api/reviews` | Product Rating & Reviews | `{"success":true,"data":{"averageRating":4.5}}` |
+
